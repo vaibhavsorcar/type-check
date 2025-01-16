@@ -38,8 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by Typebr and other typing tools that promote skill development.
-- Thanks to all contributors who help improve this project!
-
 ---
-
-Feel free to adjust any sections based on your project's specifics or add additional information as needed!
